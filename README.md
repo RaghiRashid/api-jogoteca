@@ -17,13 +17,13 @@ Siga estas etapas para configurar e executar o projeto localmente:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com/RaghiRashid/api-jogoteca.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd seu-projeto
+    cd api-jogoteca
     ```
 
 3. Instale as dependências do Composer:
