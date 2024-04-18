@@ -63,3 +63,4 @@ A aplicação estará disponível em `http://localhost:8000`.
 ## Proximas atualizações
 
 1. Documentação utilizando swagger
+2. Criação de testes unitários
